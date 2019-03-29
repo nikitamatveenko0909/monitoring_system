@@ -15,7 +15,7 @@
         <div class="card card-signin my-5">
           <div class="card-body">
             <h5 class="card-title text-center">SND</h5>
-              <form class="form-signin" action="login.php" method="POST">
+              <form class="form-signin" action="actions/login.php" method="POST">
                 <div class="form-label-group">
                   <input type="username" id="inputUser" name="username" class="form-control" placeholder="username" required autofocus>
                   <label for="inputUser">Användarnamn</label>
